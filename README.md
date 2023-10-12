@@ -8,3 +8,7 @@ Generate mapbox sprites by "mapbox/spritezero"
 
 	node main.js
 ```
+
+# see also
+
+[mapbox-sprites-from-png](https://github.com/geomatico/mapbox-sprites-from-png)
